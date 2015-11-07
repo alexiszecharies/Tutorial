@@ -10,7 +10,7 @@ String line="";
 const int pinesSalida[] = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13};
 const int cantPines = sizeof(pinesSalida)/sizeof(int);
 const String prender= "Accion ";
-const int bufferLimit=200000;
+const int bufferLimit=200;
 boolean flag=false;
 //vector del 2 al 13 con los inputs y outputs para configurar al hacer setup. o=output, i=input
 
